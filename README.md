@@ -7,3 +7,5 @@ The feature flags and experiments mentioned in the code have been stopped now. Y
 pip install -r requirements.txt
 python service_exp.py
 ```
+
+Get your project's API key from PostHog as outlined in the blog post.
